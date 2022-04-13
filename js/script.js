@@ -1,7 +1,3 @@
-const accountEmail = 'jem.dale@gmail.com';
-const apiKey = '13hDbwaWb3tCM4TX9hLbB7FNIdW2ilqNVrdOqj2I';
-const accountID = '4172c9df-0d1d-4cee-9398-18adda75081c';
-
 function getFetch() {
     const url = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}`;
 
